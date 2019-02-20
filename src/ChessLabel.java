@@ -4,7 +4,7 @@ import javax.swing.JLabel;
 import javax.swing.SwingConstants;
 
 
-public class ChessLabel extends JLabel {
+public class ChessLabel extends JLabel{
 
     Font font     = new Font("Ariel", Font.PLAIN, 24);
     Color bgLight = new Color(222, 184, 135);
